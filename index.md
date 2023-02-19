@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Vítejte na mém blogu
 ---
 
